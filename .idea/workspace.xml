@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="365a7eb8-dfb5-4fe3-8710-fded5c4d706f" name="Default Changelist" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-detail/recipes-detail.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-detail/recipes-detail.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-detail/recipes-detail.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-list/recipes-item/recipes-item.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-list/recipes-item/recipes-item.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-list/recipes-item/recipes-item.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-list/recipes-list.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-list/recipes-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-list/recipes-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-edit/shopping-edit.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+    <list default="true" id="365a7eb8-dfb5-4fe3-8710-fded5c4d706f" name="Default Changelist" comment="new commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shoppingWebApp" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingWebApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,14 +25,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-list/recipes-list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+            <state relative-caret-position="366">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/shared/ingredient.model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -70,9 +62,22 @@
         <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+              <caret line="5" column="143" selection-start-line="5" selection-start-column="143" selection-end-line="5" selection-end-column="143" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="18" column="79" lean-forward="true" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#1;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,8 +86,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            <state relative-caret-position="264">
+              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,10 +147,12 @@
         <option value="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipe.model.ts" />
         <option value="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-detail/recipes-detail.component.html" />
         <option value="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-list/recipes-list.component.html" />
-        <option value="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.html" />
-        <option value="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.ts" />
         <option value="$PROJECT_DIR$/shoppingWebApp/src/app/header/header.component.ts" />
         <option value="$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-list/recipes-list.component.ts" />
+        <option value="$PROJECT_DIR$/shoppingWebApp/src/app/shared/ingredient.model.ts" />
+        <option value="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.ts" />
+        <option value="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.html" />
+        <option value="$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
       </list>
     </option>
   </component>
@@ -158,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,19 +179,6 @@
               <item name="Udemy Angular Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy Angular Project" type="462c0819:PsiDirectoryNode" />
               <item name="shoppingWebApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy Angular Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy Angular Project" type="462c0819:PsiDirectoryNode" />
-              <item name="shoppingWebApp" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy Angular Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy Angular Project" type="462c0819:PsiDirectoryNode" />
-              <item name="shoppingWebApp" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy Angular Project" type="b2602c69:ProjectViewProjectNode" />
@@ -237,6 +233,14 @@
               <item name="shoppingWebApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy Angular Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy Angular Project" type="462c0819:PsiDirectoryNode" />
+              <item name="shoppingWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="shopping-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -252,6 +256,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,6 +297,7 @@
       <workItem from="1565578889795" duration="10727000" />
       <workItem from="1565591655974" duration="1939000" />
       <workItem from="1565598530438" duration="602000" />
+      <workItem from="1565605029915" duration="2797000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1565590586445</created>
@@ -307,11 +313,32 @@
       <option name="project" value="LOCAL" />
       <updated>1565592146954</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3 commit">
+      <created>1565607211707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565607211707</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3 commit">
+      <created>1565607423278</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565607423278</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new commit">
+      <created>1565607793503</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565607793503</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14884000" />
+    <option name="totallyTimeSpent" value="17681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -328,7 +355,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32991454" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.06324787" />
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.051282052" />
@@ -345,7 +372,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="3 commit" />
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/app.module.ts">
@@ -406,23 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/header/header.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -446,10 +458,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/recipes/recipes-list/recipes-list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        <state relative-caret-position="366">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/shared/ingredient.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="143" selection-start-line="5" selection-start-column="143" selection-end-line="5" selection-end-column="143" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingWebApp/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="79" lean-forward="true" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
